@@ -2,7 +2,7 @@ export interface Product {
 
 
     id: number;
-    artistName:String;
+    artistName:string;
     albumName: string;
 
 
